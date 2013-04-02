@@ -1,4 +1,4 @@
-japan_test
+Japan Test
 ==========
 
 This is a Test for a Japanese Company
